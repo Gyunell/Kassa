@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Kassa\bin\Debug\net7.0-windows\Kassa.exe
+C:\Users\user\Desktop\Kassa\bin\Debug\net7.0-windows\Kassa.deps.json
+C:\Users\user\Desktop\Kassa\bin\Debug\net7.0-windows\Kassa.runtimeconfig.json
+C:\Users\user\Desktop\Kassa\bin\Debug\net7.0-windows\Kassa.dll
+C:\Users\user\Desktop\Kassa\bin\Debug\net7.0-windows\Kassa.pdb
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\Kassa.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\Kassa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\Kassa.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\Kassa.AssemblyInfo.cs
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\Kassa.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\Kassa.dll
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\refint\Kassa.dll
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\Kassa.pdb
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\Kassa.genruntimeconfig.cache
+C:\Users\user\Desktop\Kassa\obj\Debug\net7.0-windows\ref\Kassa.dll
